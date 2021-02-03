@@ -1,0 +1,9 @@
+module.exports = require('./user');
+module.exports = require('./doctor');
+module.exports = require('./report');
+module.exports = require('./address');
+module.exports = require('./appointment');
+module.exports = require('./clinic');
+module.exports = require('./messages');
+module.exports = require('./userLogin');
+module.exports = require('./docLogin');
